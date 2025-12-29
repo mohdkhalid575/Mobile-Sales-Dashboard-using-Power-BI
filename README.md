@@ -22,3 +22,5 @@ By shifting to a mobile-first design, businesses can:
 ✅ Increase BI adoption by making data accessible anywhere.
 ✅ empower field agents with real-time stock and sales data.
 ✅ Accelerate decision velocity with instant custom alerts when metrics hit critical thresholds.
+
+https://github.com/mohdkhalid575/Mobile-Sales-Dashboard-using-Power-BI/blob/main/Mobile%20Sales%20Dashboard.png
