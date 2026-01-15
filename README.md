@@ -4,7 +4,7 @@ Detailed mobile sales dashboard developed. Leveraging advanced DAX formulas and 
 # 📱 Transform Your Sales Strategy: Building a Mobile-First Power BI Dashboard
 ##[Intro]
 In 2025, speed is the ultimate competitive advantage. Sales leaders and field teams can no longer wait to get back to their desks to make data-driven decisions. I’ve just wrapped up a Mobile Sales Dashboard designed specifically for high-impact, on-the-go analysis.
-## [Key Insights & KPIs] 📊
+## [Key Insights & KPIs] 📊 
 This dashboard isn't just a "shrunken" version of a desktop report—it's a touch-optimized powerhouse featuring:
 Core Metrics: Instant visibility into Total Revenue, Units Sold, and Transaction Volume.
 Trend Analysis: Real-time monitoring of monthly and daily sales patterns to spot peak business days.
