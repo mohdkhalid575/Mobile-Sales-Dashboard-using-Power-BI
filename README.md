@@ -12,6 +12,7 @@ Product Performance: Drill-down into top-performing brands (Apple, Samsung, OneP
 Geospatial Insights: Interactive maps showing city-wise sales breakdowns (e.g., Mumbai, Delhi, Bangalore).
 Customer Sentiment: A dedicated view for customer ratings to monitor satisfaction levels at a glance.
 ## [How I Built It] 🛠️
+
 To ensure a seamless user experience, I utilized several 2025 Power BI features:
 Mobile Layout Auto-Create: Used the newly GA (General Availability) auto-create engine as a baseline to instantly generate responsive views.
 Touch-Optimized Slicers: Replaced dense filters with "Tile Slicers" and larger clickable regions for easier thumb-navigation.
